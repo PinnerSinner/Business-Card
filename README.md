@@ -8,9 +8,10 @@ View the live demo at: https://beamish-zabaione-e03962.netlify.app
 - Responsive layout that adapts to all screen sizes
 - Social media integration with custom icon styling
   ![image](https://github.com/user-attachments/assets/7ce5260b-1a91-43ce-9af0-797edb9e89da)
-Tech Stack
 
-## HTML5
+
+## Tech Stack
+HTML5
 CSS3 (no frameworks)
 Font Awesome icons
 Custom CSS animations and transitions
